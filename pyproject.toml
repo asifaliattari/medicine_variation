@@ -1,0 +1,11 @@
+[project]
+name = "medicine-variation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fpdf>=1.7.2",
+    "pymedtermino>=0.3.3",
+    "streamlit>=1.43.2",
+]

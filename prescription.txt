@@ -1,0 +1,4 @@
+Doctor's Prescription
+----------------------
+Selected Medicine: {1 (acetaminophen 32.5 MG/ML / dextromethorphan hydrobromide 1 MG/ML / triprolidine hydrochloride 0.125 MG/ML Oral Solution) / 1 (dextromethorphan hydrobromide 1 MG/ML / guaifenesin 20 MG/ML / phenylephrine hydrochloride 0.5 MG/ML Oral Solution) } Pack
+RxCUI Code: 2390630
